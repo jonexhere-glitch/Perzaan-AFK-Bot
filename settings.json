@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WolfCrown.aternos.me",
-    "port": 11795,
+    "ip": "Hopelessland.aternos.me",
+    "port": 23437,
     "version": "1.21.1"
   },
   "position": {
